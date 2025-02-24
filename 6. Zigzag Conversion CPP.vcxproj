@@ -128,6 +128,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="6. Zigzag Conversion CPP.cpp" />
+    <ClCompile Include="CheckSolution.cpp" />
+    <ClCompile Include="OutputSolution.cpp" />
+    <ClCompile Include="Solution.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CheckSolution.h" />
+    <ClInclude Include="OutputSolution.h" />
+    <ClInclude Include="Solution.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
